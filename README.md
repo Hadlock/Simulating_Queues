@@ -1,3 +1,5 @@
+This is a rewrite of the code in powershell to practice writing discrete event simulation in powershell rather than python. I would not use this as reference code.
+
 # Overview
 
 This repo currently contains two things:
